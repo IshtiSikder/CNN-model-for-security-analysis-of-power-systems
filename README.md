@@ -1,0 +1,2 @@
+# CNN-model-for-security-analysis-of-power-systems
+A CNN model that can analyze power system data fed as matrix input and classify the system in terms of its security status (secure, alarm, or not secure)
